@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 📫 How to reach me: [mhoberhausen@gmail.com](mailto:mhoberhausen@gmail.com)
+
+![Michael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhoberhausen&count_private=true&show_icons=true)
+
+![Stats Overview](https://github.com/mhoberhausen/github-stats/blob/master/generated/overview.svg)
+![Stats Languages](https://github.com/mhoberhausen/github-stats/blob/master/generated/languages.svg)
 <!--
 **mhoberhausen/mhoberhausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
